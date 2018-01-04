@@ -1,2 +1,2 @@
-# Redux-Recipefinder
-Redux-Recipefinder
+# Redux-RecipeFinder
+Redux-RecipeFinder
